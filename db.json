@@ -1,4 +1,10 @@
 {
-    "status":"success",
-	"msg":"success"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "status": "success",
+  "msg": "success"
 }
